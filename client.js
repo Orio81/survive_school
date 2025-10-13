@@ -66,6 +66,8 @@ function gameLoop() {
   draw();
   requestAnimationFrame(gameLoop);
 }
+Add client.js code
+
 
 gameLoop();
 
